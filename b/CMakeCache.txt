@@ -245,6 +245,12 @@ collectc_BINARY_DIR:STATIC=/home/monleak/Tim_Bus/b/cgraph/ctc
 //Value Computed by CMake
 collectc_SOURCE_DIR:STATIC=/home/monleak/Tim_Bus/cgraph/ctc
 
+//Value Computed by CMake
+libfdr_BINARY_DIR:STATIC=/home/monleak/Tim_Bus/b/libfdr
+
+//Value Computed by CMake
+libfdr_SOURCE_DIR:STATIC=/home/monleak/Tim_Bus/libfdr
+
 
 ########################
 # INTERNAL cache entries
@@ -348,7 +354,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=8
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=9
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

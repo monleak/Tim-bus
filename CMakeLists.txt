@@ -9,5 +9,5 @@ add_subdirectory(cgraph)
 add_executable(main main-20194562.c)
 target_link_libraries(main cgraph)
 
-##add_subdirectory(libfdr)
-##target_link_libraries(main fdr)
+add_subdirectory(libfdr)
+target_link_libraries(main fdr)

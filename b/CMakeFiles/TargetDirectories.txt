@@ -77,3 +77,12 @@
 /home/monleak/Tim_Bus/b/cgraph/ctc/CMakeFiles/package.dir
 /home/monleak/Tim_Bus/b/cgraph/ctc/CMakeFiles/package_source.dir
 /home/monleak/Tim_Bus/b/cgraph/ctc/CMakeFiles/collectc.dir
+/home/monleak/Tim_Bus/b/libfdr/CMakeFiles/install/strip.dir
+/home/monleak/Tim_Bus/b/libfdr/CMakeFiles/install/local.dir
+/home/monleak/Tim_Bus/b/libfdr/CMakeFiles/package_source.dir
+/home/monleak/Tim_Bus/b/libfdr/CMakeFiles/install.dir
+/home/monleak/Tim_Bus/b/libfdr/CMakeFiles/list_install_components.dir
+/home/monleak/Tim_Bus/b/libfdr/CMakeFiles/rebuild_cache.dir
+/home/monleak/Tim_Bus/b/libfdr/CMakeFiles/package.dir
+/home/monleak/Tim_Bus/b/libfdr/CMakeFiles/edit_cache.dir
+/home/monleak/Tim_Bus/b/libfdr/CMakeFiles/fdr.dir
